@@ -1,4 +1,4 @@
-<h1><center>DKS2312</center></h1>
+<center><h1>DKS2312</h1></center>
 <p class="has-line-data" data-line-start="2" data-line-end="4">tistory : <a href="https://dtg2312.tistory.com/">tistory</a><br>
 <a href="https://www.example.com/my%20great%20page">link</a></p>
 <p class="has-line-data" data-line-start="5" data-line-end="6"><img src="https://github-readme-stats.vercel.app/api?username=dks2312&amp;show_icons=true&amp;theme=buefy" alt="dks2312's GitHub stats"></p>
