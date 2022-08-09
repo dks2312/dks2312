@@ -3,7 +3,10 @@
 ## :smiley: 저를 소개합니다
 + 수원정보과학고등학교 IT소프트웨어과를 졸업했습니다
 + 프로그래밍을 즐기는 주니어 개발자입니다
-  + 개인 프로젝트 10개 (C-Tetris, submarine 등등..)
+  + 개인 프로젝트 10개 (
+    [submarine](https://github.com/dks2312/submarine_Game), 
+    [C-Tetris](https://github.com/dks2312/C-Tetris) 
+  등등..)
 + 웹 풀스택 개발을 목표로 공부하고 있습니다
   + 프론트엔드: html, css, javascript
   + 백엔드: java, jsp
