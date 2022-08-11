@@ -10,7 +10,6 @@
 + 웹 풀스택 개발을 목표로 공부하고 있습니다
   + 프론트엔드: html, css, javascript
   + 백엔드: java, jsp
-+ 코드의 가독성을 높이기 위해 디자인 패턴에 대해서도 공부 중입니다
 + 경기도 용인시 기흥구에 거주하고 있습니다
 
 <p>tistory : <a href="https://dtg2312.tistory.com/">https://dtg2312.tistory.com/</a><br>
