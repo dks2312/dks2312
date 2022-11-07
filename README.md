@@ -3,12 +3,12 @@
 ## :smiley: 저를 소개합니다
 + 수원정보과학고등학교 IT소프트웨어과를 졸업했습니다
 + 프로그래밍을 즐기는 주니어 개발자입니다
-  + 5개의 개인 프로젝트들을 개발했습니다  
+<!--   + 5개의 개인 프로젝트들을 개발했습니다  
     ([물고기 키우기](https://github.com/dks2312/submarine_Game), 
     [공룡 달리기](https://github.com/dks2312/Chrome-dino), 
     [계산기](https://github.com/dks2312/java_Calculator), 
     [두더지 잡기](https://github.com/dks2312/Java_Chtching_Moles_game), 
-    [테트리스](https://github.com/dks2312/C-Tetris))
+    [테트리스](https://github.com/dks2312/C-Tetris)) -->
 + 웹 풀스택 개발을 목표로 공부하고 있습니다
   + 프론트엔드: html, css, javascript
   + 백엔드: java, jsp
