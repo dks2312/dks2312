@@ -8,12 +8,15 @@
   + 백엔드: Node.js, Spring boot
 + 기흥역 20분 거리에 거주하고 있습니다
 
-<!--   + 5개의 미니 게임들을 개발했습니다  
-    ([물고기 키우기](https://github.com/dks2312/submarine_Game), 
-    [공룡 달리기](https://github.com/dks2312/Chrome-dino), 
-    [계산기](https://github.com/dks2312/java_Calculator), 
-    [두더지 잡기](https://github.com/dks2312/Java_Chtching_Moles_game), 
-    [테트리스](https://github.com/dks2312/C-Tetris)) -->
+<details>
+<summary>5개의 미니 게임</summary>
+  
++ [물고기 키우기](https://github.com/dks2312/submarine_Game)
++ [공룡 달리기](https://github.com/dks2312/Chrome-dino)
++ [계산기](https://github.com/dks2312/java_Calculator)
++ [두더지 잡기](https://github.com/dks2312/Java_Chtching_Moles_game)
++ [테트리스](https://github.com/dks2312/C-Tetris)
+</details>
     
 <p>tistory : <a href="https://dtg2312.tistory.com/">https://dtg2312.tistory.com/</a><br>
 <p class="has-line-data" data-line-start="5" data-line-end="6"><img src="https://github-readme-stats.vercel.app/api?username=dks2312&amp;show_icons=true&amp;theme=buefy" alt="dks2312's GitHub stats"></p>
